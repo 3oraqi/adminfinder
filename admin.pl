@@ -201,7 +201,7 @@ $contentpage->content =~ /passe/ ||
 $contentpage->content =~ /P\/W/ || 
 $contentpage->content =~ /Admin Password/
 ){
-print " \n #K H T: [+] Ow ! Found => $findall\n\n";
+print " \n #3oraqi: [+] Ow ! Found => $findall\n\n";
 }else{
 print "#1m5t find:[-] Not Found <- $findall\n";
 }
